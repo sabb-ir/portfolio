@@ -15,8 +15,6 @@
 
 I am a hardworking and dedicated Computer Science student at **Leading University, Sylhet**, currently in my **last semester** with a CGPA of **3.61**. I am passionate about **research**, **machine learning**, and **deep learning**, and contributing to tech communities through leadership roles in IEEE and university research clubs.
 
-> *"The goal is to turn data into information, and information into insight."*
-
 ---
 
 ## Research Interests
