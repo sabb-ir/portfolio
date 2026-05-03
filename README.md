@@ -117,7 +117,7 @@ Handling official research documentation and coordination for research activitie
 
 ## Contact
 
-📧 **Email:** [khan960sabbir@gmail.com](mailto:khan960sabbir@gmail.com)
-💼 **LinkedIn:** [Sabbir Hussain Khan](https://www.linkedin.com/in/sabbir-hussain-khan-188892263?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-📘 **Facebook:** [Sabbir Khan](https://www.facebook.com/share/1CBYQhtXa4/)
-📍 **Address:** 69 Khan Villa, Shamimabad, Bagbari, Sylhet Sadar, Sylhet, Bangladesh
+- 📧 **Email:** [khan960sabbir@gmail.com](mailto:khan960sabbir@gmail.com)
+- 💼 **LinkedIn:** [Sabbir Hussain Khan](https://www.linkedin.com/in/sabbir-hussain-khan-188892263?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+- 📘 **Facebook:** [Sabbir Khan](https://www.facebook.com/share/1CBYQhtXa4/)
+- 📍 **Address:** 69 Khan Villa, Shamimabad, Bagbari, Sylhet Sadar, Sylhet, Bangladesh
