@@ -71,7 +71,7 @@ Border Guard Public School and College, Sylhet
 ## Experience
 
 **Treasurer — Committee 2025-26**
-*IEEE Computer Society, Leading University Student Branch*
+*IEEE Computer Society, Leading University Student Branch Chapter*
 Managing finances and resources, supporting research-driven initiatives within the branch.
 
 **IT Secretary Leads — Committee 2025-26**
@@ -83,7 +83,7 @@ Overseeing technical operations and digital platforms, coordinating IT teams, an
 Handling official research documentation and coordination for research activities.
 
 **Publication & Newsletter Coordinator — Committee 2024-25**
-*IEEE Computer Society, Leading University Student Branch*
+*IEEE Computer Society, Leading University Student Branch Chapter*
 Coordinated technical publications, writing newsletters, and disseminating research findings to the community.
 
 ---
