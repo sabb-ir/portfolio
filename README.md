@@ -19,11 +19,10 @@ I am a hardworking and dedicated Computer Science student at **Leading Universit
 
 ## Research Interests
 
-- 🤖 **Machine Learning** — Supervised & Unsupervised Learning, Model Optimization
-- 🧠 **Deep Learning** — Neural Networks, CNNs, RNNs, Transformers
-- 📊 **Data Science** — Feature Engineering, Data Analysis, Visualization
-- 💡 **Natural Language Processing (NLP)** — Text classification, language models
-- 👁️ **Computer Vision** — Image recognition, object detection
+- **Machine Learning** — Supervised & Unsupervised Learning, Model Optimization
+- **Deep Learning** — Neural Networks, CNNs, RNNs, Transformers
+- **Data Science** — Feature Engineering, Data Analysis, Visualization
+- **Natural Language Processing (NLP)** — Text classification, language models
 
 ---
 
@@ -57,31 +56,35 @@ Border Guard Public School and College, Sylhet
 
 ### Programming & Tools
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ### Soft Skills
-- 🔬 Research Design & Paper Writing
-- 🧮 Competitive Programming & Problem Solving
-- 📝 Technical Writing & Documentation
-- 🤝 Leadership & Team Coordination
-- 🌐 **Languages:** Bangla (Native), English (Proficient)
+- Research Design & Paper Writing
+- Competitive Programming & Problem Solving
+- Technical Writing & Documentation
+- Leadership & Team Coordination
+- **Languages:** Bangla (Native), English (Proficient)
 
 ---
 
 ## Experience
 
-**Treasurer — Current Committee**
+**Treasurer — Committee 2025-26**
 *IEEE Computer Society, Leading University Student Branch*
 Managing finances and resources, supporting research-driven initiatives within the branch.
 
-**Publication & Newsletter Coordinator — Committee 2024-25**
-*IEEE Computer Society, Leading University Student Branch*
-Coordinating technical publications, writing newsletters, and disseminating research findings to the community.
+**IT Secretary Leads — Committee 2025-26**
+*Leading University Computer Club*
+Overseeing technical operations and digital platforms, coordinating IT teams, and supporting technology-focused activities and projects within the club.
 
-**Joint Office & Documentation Secretary**
+**Joint Office & Documentation Secretary — Committee 2025-26**
 *Leading University Research Club*
 Handling official research documentation and coordination for research activities.
+
+**Publication & Newsletter Coordinator — Committee 2024-25**
+*IEEE Computer Society, Leading University Student Branch*
+Coordinated technical publications, writing newsletters, and disseminating research findings to the community.
 
 ---
 
@@ -91,7 +94,6 @@ Handling official research documentation and coordination for research activitie
 |---|---|---|
 | 📱 **Fuse** | Mobile application project built as part of university coursework | [View on GitHub](https://github.com/sabb-ir/project-I.git) |
 
-> 🚧 More ML & Deep Learning projects coming soon!
 
 ---
 
@@ -99,7 +101,13 @@ Handling official research documentation and coordination for research activitie
 
 | Event | Role | Year |
 |---|---|---|
-| Leading University Research Conference 2024 | Volunteer | 2024 |
+| IEEE CS LU SBC Election 2026 | Election Comissioner | 2026 |
+| Flyover Education Presents HackFusion 2026 | Treasurer | 2026 |
+| 4th Convocation of Leading University 2026 | Volunteer | 2026 |
+| IEEE DAY 2025 | Organizer | 2025 |
+| Leading University 2nd Research Conference 2025 | Organizer | 2025 |
+| Bootcamp On Research Practices in Machine Learning: Season 1 | Volunteer | 2025 |
+| Leading University 1st Research Conference 2024 | Volunteer | 2024 |
 | IEEE DAY 2024 | Volunteer | 2024 |
 | IEEE CS LU SBC Election 2024 | Volunteer | 2024 |
 
@@ -107,10 +115,10 @@ Handling official research documentation and coordination for research activitie
 
 ## Currently Learning
 
-- 📖 Deep Learning — Neural Networks, CNNs, Sequence Models
-- 📖 Transformer architectures & Large Language Models (LLMs)
-- 📖 Research paper reading & academic writing
-- 📖 Applied ML projects & Kaggle competitions
+- Deep Learning — Neural Networks, CNNs, Sequence Models
+- Transformer architectures & Large Language Models (LLMs)
+- Research paper reading & academic writing
+- Applied ML projects & Kaggle competitions
 
 ---
 
